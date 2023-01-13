@@ -5,6 +5,5 @@
 npm install.
 npm start.
 
-Chạy trên cổng 3000
-
+Example app listening on port 3000
 ## Api
